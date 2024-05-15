@@ -11,7 +11,7 @@
 <h1>Food Delivery App Clone</h1>
 
 <p>This project contains a clone of a simple food delivery application. Users can view restaurant menus, place food orders, and track the status of their orders.</p>
-<p>Backend is not connected yet.You can find <a href="https://github.com/Bedizz/FoodDeliveryApp-Backend">the Backend</a> and <a href="https://github.com/Bedizz/FoodDeliveryApp-Backend">Admin</a> Repo here.</p>
+<p>Backend is not connected yet.You can find <a href="https://github.com/Bedizz/FoodDeliveryApp-Backend">the Backend</a> and <a href="https://github.com/Bedizz/FoodDeliveryApp-Admin">Admin</a> Repo here.</p>
 
 <h2>Usage</h2>
 
