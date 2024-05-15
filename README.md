@@ -11,6 +11,7 @@
 <h1>Food Delivery App Clone</h1>
 
 <p>This project contains a clone of a simple food delivery application. Users can view restaurant menus, place food orders, and track the status of their orders.</p>
+<p>Backend is not connected yet</p>
 
 <h2>Usage</h2>
 
