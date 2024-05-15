@@ -78,9 +78,7 @@
 
 <p>If you'd like to contribute, please submit a pull request. You can add new features, fix bugs, or contribute to documentation.</p>
 
-<h2>License</h2>
 
-<p>This project is licensed under the MIT License. For more information, see the <a href="LICENSE">LICENSE</a> file.</p>
 
 </body>
 </html>
